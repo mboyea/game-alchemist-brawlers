@@ -2,7 +2,7 @@ Alchemist Brawlers
 ===
 A 2D pvp multiplayer action-platformer.
 ---
-This game is a recovered project, which I had lost for a few years. Very little has been implemented, but I did release a YouTube video about plans for the project, which may be of interest.
+This game is a recovered project, which I had lost for a few years. Very little has been implemented, but I did release a [YouTube video](https://www.youtube.com/watch?v=-Rxockivre4) about plans for the project, which may be of interest.
 
 ![Screenshot of the gameplay.](img/game-screen.png)
 
